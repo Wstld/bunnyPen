@@ -22,6 +22,11 @@ canvas {
     margin-top: 5%;
     border-radius: 0.5em;
 }
+.iconBtn:hover{
+    background-color: gray;
+}
+
+
 
 #menu {
     position: absolute;
